@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/DIGITECH/Desktop/hub-chat-main/node_modules/.pnpm/@nuxt+vite-builder@3.16.2_@_7cb22acda24aebaee134ede2d169cd91/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
